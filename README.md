@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+<h1 align="center">Hi there👋, I'm Akash Yadav</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashyadav8080&label=Profile%20views&color=0e75b6&style=flat" alt="akashyadav8080" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akashyadav7901" target="blank"><img src="https://img.shields.io/twitter/follow/akashyadav7901?logo=twitter&style=for-the-badge" alt="akashyadav7901" /></a> </p>
 
-- 🔭 I’m currently working on **Food project**
+- 🔭 I’m currently working on **Plants Fresher project**
 
-- 🌱 I’m currently learning **Jetpack compose,Kotlin and Native Android development.**
+- 🌱 I’m currently learning **Dart, Flutter that enable single codebase development for mobile apps.**
 
-- 🤝 I’m looking for help with **Android development**
+- 🤝 I’m looking for help with **Android & Flutter development**
 
 - 👨‍💻 All of my projects are available at [https://akashyadav.freewebhostmost.com/](https://akashyadav.freewebhostmost.com/)
 
-- 💬 Ask me about **Java, XML ,Android Studio, Gradle , Firebase , API Integration**
+- 💬 Ask me about **Java, XML ,Android Studio, Jetpack compose, Kotlin Gradle , Firebase , API Integration**
 
 - 📫 How to reach me **ay790184@gmail.com**
 
