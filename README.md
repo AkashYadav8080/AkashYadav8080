@@ -38,13 +38,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ---
 
 ### 🔥 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashyadav8080&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashyadav8080&theme=radical" />
 </p>
 
 <p align="center">
@@ -59,14 +59,15 @@
 2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
 3. **[Task Manager](https://github.com/akashyadav8080/TaskManager)** - Productivity app with Firebase integration
 
----
 
+<!--
+---
 ### 📝 Read Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 - [Jetpack Compose vs XML: Which one should you learn in 2025?]([https://example.com](https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4))
 - [Flutter for Android Developers: Getting Started Guide]([https://example.com](https://docs.flutter.dev/get-started/flutter-for/android-devs))
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
 ---
 
