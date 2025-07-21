@@ -83,7 +83,7 @@
   <a href="https://stackoverflow.com/users/29629319/akash-yadav" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://medium.com/@akashyadav" target="_blank">
+  <a href="https://medium.com/@akashyadav8080" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
