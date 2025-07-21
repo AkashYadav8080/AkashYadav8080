@@ -59,15 +59,14 @@
 2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
 3. **[Task Manager](https://github.com/akashyadav8080/TaskManager)** - Productivity app with Firebase integration
 
-
-<!--
 ---
-### 📝 Read Latest Blog Posts
 
- BLOG-POST-LIST:START 
+### 📝 Laest Blog Posts
+
+ <!--BLOG-POST-LIST:START -->
 - [Jetpack Compose vs XML: Which one should you learn in 2025?]([https://example.com](https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4))
 - [Flutter for Android Developers: Getting Started Guide]([https://example.com](https://docs.flutter.dev/get-started/flutter-for/android-devs))
- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:END -->
 
 ---
 
