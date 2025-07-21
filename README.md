@@ -64,8 +64,8 @@
 ### 📝 Laest Blog Posts
 
  <!--BLOG-POST-LIST:START -->
-- [Jetpack Compose vs XML: Which one should you learn in 2025?]([https://example.com](https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4))
-- [Flutter for Android Developers: Getting Started Guide]([https://example.com](https://docs.flutter.dev/get-started/flutter-for/android-devs))
+- [Jetpack Compose vs XML: Which one should you learn in 2025?]([https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4])
+- [Flutter for Android Developers: Getting Started Guide]([https://docs.flutter.dev/get-started/flutter-for/android-devs])
  <!-- BLOG-POST-LIST:END -->
 
 ---
