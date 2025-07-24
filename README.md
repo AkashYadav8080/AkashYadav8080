@@ -11,7 +11,7 @@
 
 - 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose
 - 🌱 **Currently learning:** Flutter & Dart for cross-platform development
-- 🔭 **Working on:** [Plants Fresher](https://github.com/akashyadav8080/PlantsFresher) - An innovative plant care app
+- 🔭 **Working on:** [Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher) - An innovative plant care app
 - 📚 **Sharing knowledge:** Active on [Stack Overflow](https://stackoverflow.com/users/29629319/akash-yadav)
 - 💡 **Interests:** Mobile architecture, UI/UX, and performance optimization
 - 📫 **How to reach me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)
@@ -55,18 +55,21 @@
 
 ### 📌 Featured Projects
 
-1. **[Plants Fresher](https://github.com/akashyadav8080/PlantsFresher)** - Plant care reminder app with Jetpack Compose
+1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plant care reminder app with Jetpack Compose
 2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
 3. **[Task Manager](https://github.com/akashyadav8080/TaskManager)** - Productivity app with Firebase integration
 
 ---
 
-### 📝 Laest Blog Posts
+### 📝 Latest Blog Posts
 
- <!--BLOG-POST-LIST:START -->
-- [Jetpack Compose vs XML: Which one should you learn in 2025?]([https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4])
-- [Flutter for Android Developers: Getting Started Guide]([https://docs.flutter.dev/get-started/flutter-for/android-devs])
- <!-- BLOG-POST-LIST:END -->
+<!--BLOG-POST-LIST:START-->
+<ul>
+  <li><a href="https://blog.devgenius.io/jetpack-compose-vs-xml-in-2025-which-one-should-you-use-7536f316f7d4" target="_blank">Jetpack Compose vs XML: Which one should you learn in 2025?</a></li>
+  <li><a href="https://docs.flutter.dev/get-started/flutter-for/android-devs" target="_blank">Flutter for Android Developers: Getting Started Guide</a></li>
+</ul>
+<!--BLOG-POST-LIST:END-->
+
 
 ---
 
