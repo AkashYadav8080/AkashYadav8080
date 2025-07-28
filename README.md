@@ -44,14 +44,29 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashyadav8080&show_icons=true&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=akashyadav8080&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashYadav8080&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav8080&layout=compact&theme=radical" />
-</p>
+
+<div align="center">
+     <!-- Top Languages -->
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav8080&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
+  <!-- GitHub Activity Graph -->
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav8080&theme=redical&hide_border=true&custom_title=Contribution%20Graph" />
+
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=akashyadav8080&theme=radical&no-frame=true&row=1&column=6" />
+</div>
 
 ---
+
 
 ### 📌 Featured Projects
 
@@ -95,4 +110,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashyadav8080&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/akashyadav8080?style=social" />
+
 </p>
