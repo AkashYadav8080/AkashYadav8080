@@ -11,7 +11,7 @@
 
 - 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose
 - 🌱 **Currently learning:** Flutter & Dart for cross-platform development
-- 🔭 **Working on:** [Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher) - An innovative plant care app
+- 🔭 **Working on:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) - An Android Room DB Helper Library
 - 📚 **Sharing knowledge:** Active on [Stack Overflow](https://stackoverflow.com/users/29629319/akash-yadav)
 - 💡 **Interests:** Mobile architecture, UI/UX, and performance optimization
 - 📫 **How to reach me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)
