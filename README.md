@@ -12,7 +12,7 @@
 - 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose
 - 🌱 **Currently learning:** Flutter & Dart for cross-platform development
 - 🔭 **Working on:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) - An Android Room DB Helper Library
-- 📚 **Sharing knowledge:** Active on [Stack Overflow](https://stackoverflow.com/users/29629319/akash-yadav)
+- 📚 **Sharing thoughts:** Active on [Linkedin](https://www.linkedin.com/in/iamthesky-akash-yadav/)
 - 💡 **Interests:** Mobile architecture, UI/UX, and performance optimization
 - 📫 **How to reach me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)
 
@@ -103,7 +103,7 @@
 
 1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plant care reminder app with Jetpack Compose
 2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
-3. **[Task Manager](https://github.com/akashyadav8080/TaskManager)** - Productivity app with Firebase integration
+3. **[Awesome APIs](https://github.com/AkashYadav8080/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
 ---
 
