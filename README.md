@@ -101,7 +101,7 @@
 
 ### 📌 Featured Projects
 
-1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plant care reminder app with Jetpack Compose
+1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plants Fresher is a modern Android app designed to help users explore, buy, and care for plants.
 2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
 3. **[Awesome APIs](https://github.com/AkashYadav8080/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
