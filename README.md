@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose
-- 🌱 **Currently learning:** Flutter & Dart for cross-platform development
+- 🌱 **Currently exploring:** Flutter & Dart for cross-platform development
 - 🔭 **Working on:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) - An Android Room DB Helper Library
 - 📚 **Sharing thoughts:** Active on [Linkedin](https://www.linkedin.com/in/iamthesky-akash-yadav/)
 - 💡 **Interests:** Mobile architecture, UI/UX, and performance optimization
@@ -102,7 +102,7 @@
 ### 📌 Featured Projects
 
 1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plants Fresher is a modern Android app designed to help users explore, buy, and care for plants.
-2. **[Weather App](https://github.com/akashyadav8080/WeatherApp)** - Real-time weather forecasting application
+2. **[News App](https://github.com/AkashYadav8080/News-App)** - Live News Application with new-api
 3. **[Awesome APIs](https://github.com/AkashYadav8080/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
 ---
