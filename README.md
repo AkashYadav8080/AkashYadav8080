@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose,MVVM, Room, Firebase
-- 🌱 **Currently exploring:** Flutter & Dart for cross-platform development
-- 🔭 **Working on:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) - An Android Room DB Helper Library
-- 📚 **Sharing thoughts:** Active on [Linkedin](https://www.linkedin.com/in/iamthesky-akash-yadav/)
-- 💡 **Interests:** Mobile architecture, UI/UX, and performance optimization
-- 📫 **How to reach me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)
+- 💻 **Professional:** Android Developer skilled in **Java, Kotlin, Jetpack Compose, MVVM, Room, and Firebase**  
+- 🌱 **Currently Exploring:** **Flutter & Dart** for cross-platform app development  
+- 🔭 **Project in Progress:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) — a lightweight Room Database Helper Library for Android  
+- 📚 **Knowledge Sharing:** Actively sharing insights on [LinkedIn](https://www.linkedin.com/in/iamthesky-akash-yadav/)  
+- 💡 **Key Interests:** Mobile app architecture, clean UI/UX design, and performance optimization  
+- 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)  
 
 ---
 
