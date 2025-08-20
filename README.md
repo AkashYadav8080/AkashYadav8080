@@ -36,15 +36,11 @@
 
 #### Android Libraries & Frameworks
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![LiveData](https://img.shields.io/badge/LiveData-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Navigation Component](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
-#### Backend & APIs
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Tools & IDEs
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -116,12 +112,9 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect 
 
 <p align="center">
-  <a href="https://twitter.com/akashyadav7901" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/iamthesky-akash-yadav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -130,6 +123,9 @@
   </a>
   <a href="https://medium.com/@akashyadav8080" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/akashyadav7901" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
