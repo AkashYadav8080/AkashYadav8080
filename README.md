@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose
+- 💻 **Professional:** Android developer with expertise in Java, Kotlin, and Jetpack Compose,MVVM, Room, Firebase
 - 🌱 **Currently exploring:** Flutter & Dart for cross-platform development
 - 🔭 **Working on:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) - An Android Room DB Helper Library
 - 📚 **Sharing thoughts:** Active on [Linkedin](https://www.linkedin.com/in/iamthesky-akash-yadav/)
@@ -46,11 +46,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Database
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 #### Tools & IDEs
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -66,9 +61,10 @@
 ![Firebase App Distribution](https://img.shields.io/badge/App%20Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Backend & Databases
+![Room Database](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
