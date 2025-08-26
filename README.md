@@ -82,11 +82,16 @@
 
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <!-- GitHub Trophies -->
+### 🏆 GitHub 
+<!--
+<div align="center"> Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=akashyadav8080&theme=radical&no-frame=true&row=1&column=6" />
 </div>
+-->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=akashyadav8080&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
