@@ -99,7 +99,7 @@
 ### 📌 Featured Projects
 
 1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plants Fresher is a modern Android app designed to help users explore, buy, and care for plants.
-2. **[News App](https://github.com/AkashYadav8080/News-App)** - Live News Application with new-api
+2. **[News App](https://github.com/AkashYadav8080/News-App)** - Live News Application with news-api.
 3. **[Awesome APIs for Developers](https://github.com/AkashYadav8080/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
 ---
