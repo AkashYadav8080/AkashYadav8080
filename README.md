@@ -71,7 +71,6 @@
   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashYadav8080&theme=radical" />
 </p>
 
-
 <div align="center">
      <!-- Top Languages -->
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav8080&layout=compact&theme=radical&hide_border=true&langs_count=8" />
