@@ -2,7 +2,7 @@
 <h3 align="center">Android & Flutter Developer | Open Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Android+Developer+%F0%9F%93%B1;Learning+Flutter+%F0%9F%9A%80;Building+Seamless+Mobile+Apps+%F0%9F%8F%97%EF%B8%8F;Cross-Platform+Enthusiast+%F0%9F%8C%90;Java/Kotlin+Developer+%F0%9F%92%BB;Material+Design+Lover+%F0%9F%8E%A8;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;Always+Exploring+New+Things+%F0%9F%94%8D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%9A%80;Building+Seamless+Mobile+Apps+%F0%9F%8F%97%EF%B8%8F;Cross-Platform+Enthusiast+%F0%9F%8C%90;Java/Kotlin+Developer+%F0%9F%92%BB;Material+Design+Lover+%F0%9F%8E%A8;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;Always+Exploring+New+Things+%F0%9F%94%8D" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 💻 **Professional:** Android Developer skilled in **Java, Kotlin, Jetpack Compose, MVVM, Room, and Firebase**  
 - 🌱 **Currently Exploring:** **Flutter & Dart** for cross-platform app development  
-- 🔭 **Project in Progress:** [RoomDBHelper](https://github.com/AkashYadav8080/RoomDBHelper) — a lightweight Room Database Helper Library for Android  
+- 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/AkashYadav8080/Plant-Fresher) — a Plants care application in Android.  
 - 📚 **Knowledge Sharing:** Actively sharing insights on [LinkedIn](https://www.linkedin.com/in/iamthesky-akash-yadav/)  
 - 💡 **Key Interests:** Mobile app architecture, clean UI/UX design, and performance optimization  
 - 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)  
