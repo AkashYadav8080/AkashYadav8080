@@ -14,8 +14,9 @@
 - 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/AkashYadav8080/Plant-Fresher) — A Plants Care Application in Android 
 - 📚 **Knowledge Sharing:** Actively sharing insights on [LinkedIn](https://www.linkedin.com/in/iamthesky-akash-yadav/)  
 - 💡 **Key Interests:** Mobile app architecture, clean UI/UX design, and performance optimization  
-- 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/)  
-
+- 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com)
+  <!-- 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com) | [Portfolio](https://akashyadav.freewebhostmost.com/) -->
+ 
 ---
 
 ### 🛠 Tech Stack
