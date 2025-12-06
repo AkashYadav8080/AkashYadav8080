@@ -129,5 +129,4 @@
   
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/akashyadav8080?style=social" />
-
 </p>
