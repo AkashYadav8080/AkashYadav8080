@@ -126,7 +126,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashyadav8080&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/akashyadav8080?style=social" />
 </p>
