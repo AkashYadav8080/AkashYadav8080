@@ -11,7 +11,7 @@
 
 - 💻 **Professional:** Android Developer skilled in **Java, Kotlin, Jetpack Compose, MVVM, Room, and Firebase**  
 - 🌱 **Currently Exploring:** **Flutter & Dart** for cross-platform app development  
-- 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/AkashYadav8080/Plant-Fresher) — A Plants Care Application in Android 
+- 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/AkashYadav8080/Plants-Fresher) — A Plants Care Application in Android 
 - 📚 **Knowledge Sharing:** Actively sharing insights on [LinkedIn](https://www.linkedin.com/in/iamthesky-akash-yadav/)  
 - 💡 **Key Interests:** Mobile app architecture, clean UI/UX design, and performance optimization  
 - 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com)
