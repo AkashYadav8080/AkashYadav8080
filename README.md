@@ -100,8 +100,8 @@
 <ul>
   <li><a href="https://medium.com/@akashyadav8080/jetpack-compose-vs-flutter-choosing-the-right-framework-in-2025-5d8b3eb8af15" target="_blank">Jetpack Compose vs XML: Which one should you learn in 2025?</a></li>
   <li><a href="https://docs.flutter.dev/get-started/flutter-for/android-devs" target="_blank">Flutter for Android Developers: Getting Started Guide</a></li>
-  
 </ul>
+
 <!--BLOG-POST-LIST:END-->
 
 ---
