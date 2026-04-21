@@ -106,23 +106,26 @@
 
 ---
 
-### 🤝 Let's Connect 
+### 🤝 Let's Connect & Collaborate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iamthesky-akash-yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/29629319/akash-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@akashyadav8080" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/akashyadav7901" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
----
+<div align="center">
+
+I'm always open to interesting projects, collaborations, or just a good tech conversation!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthesky-akash-yadav/)
+[![Medium](https://img.shields.io/badge/Read_my_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashyadav8080)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay790184@gmail.com)
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
+
+*"The best code is the code that makes the user forget they're using code."*
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashyadav8080&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
