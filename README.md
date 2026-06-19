@@ -11,7 +11,7 @@
 
 - 💻 **Professional:** Android Developer skilled in **Java, Kotlin, Jetpack Compose, MVVM, Room, and Firebase**  
 - 🌱 **Currently Exploring:** **Flutter & Dart** for cross-platform app development  
-- 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/AkashYadav8080/Plants-Fresher) — A Plants Care Application in Android 
+- 🔭 **Project in Progress:** [Plant-Fresher](https://github.com/akashyadavbuilds/Plants-Fresher) — A Plants Care Application in Android 
 - 📚 **Knowledge Sharing:** Actively sharing insights on [LinkedIn](https://www.linkedin.com/in/iamthesky-akash-yadav/)  
 - 💡 **Key Interests:** Mobile app architecture, clean UI/UX design, and performance optimization  
 - 📫 **Connect with Me:** [ay790184@gmail.com](mailto:ay790184@gmail.com)
@@ -68,29 +68,29 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=akashyadav8080&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
-  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashYadav8080&theme=radical" />
-    <img width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav8080&theme=redical&hide_border=true&custom_title=Contribution%20Graph" />
+<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=akashyadavbuilds&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
+  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashyadavbuilds&theme=radical" />
+    <img width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadavbuilds&theme=redical&hide_border=true&custom_title=Contribution%20Graph" />
 
 </p>
 
 ### 🏆 GitHub Trophies
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=akashyadav8080&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akashyadavbuilds&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ### ⭐ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=akashyadav8080&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=akashyadavbuilds&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-1. **[Plants Fresher](https://github.com/AkashYadav8080/PlantsFresher)** - Plants Fresher is a modern Android app designed to help users explore, buy, and care for plants.
-2. **[News App](https://github.com/AkashYadav8080/News-App)** - Live News Application with news-api.
-3. **[Awesome APIs for Developers](https://github.com/AkashYadav8080/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
+1. **[Plants Fresher](https://github.com/akashyadavbuilds/PlantsFresher)** - Plants Fresher is a modern Android app designed to help users explore, buy, and care for plants.
+2. **[News App](https://github.com/akashyadavbuilds/News-App)** - Live News Application with news-api.
+3. **[Awesome APIs for Developers](https://github.com/akashyadavbuilds/awesome-apis)** - A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
 ---
 
@@ -98,7 +98,7 @@
 
 <!--BLOG-POST-LIST:START-->
 <ul>
-  <li><a href="https://medium.com/@akashyadav8080/jetpack-compose-vs-flutter-choosing-the-right-framework-in-2025-5d8b3eb8af15" target="_blank">Jetpack Compose vs XML: Which one should you learn in 2025?</a></li>
+  <li><a href="https://medium.com/@akashyadavbuilds/jetpack-compose-vs-flutter-choosing-the-right-framework-in-2025-5d8b3eb8af15" target="_blank">Jetpack Compose vs XML: Which one should you learn in 2025?</a></li>
   <li><a href="https://docs.flutter.dev/get-started/flutter-for/android-devs" target="_blank">Flutter for Android Developers: Getting Started Guide</a></li>
 </ul>
 
@@ -113,7 +113,7 @@
 I'm always open to interesting projects, collaborations, or just a good tech conversation!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthesky-akash-yadav/)
-[![Medium](https://img.shields.io/badge/Read_my_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashyadav8080)
+[![Medium](https://img.shields.io/badge/Read_my_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashyadavbuilds)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay790184@gmail.com)
 
 </div>
@@ -128,7 +128,7 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashyadav8080&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akashyadavbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/akashyadav8080?style=social" />
+  <img src="https://img.shields.io/github/followers/akashyadavbuilds?style=social" />
 </p>
